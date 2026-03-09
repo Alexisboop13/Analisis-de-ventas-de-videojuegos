@@ -1,4 +1,5 @@
 Analisis de Ventas de Videojuegos
+
 Este proyecto presenta un analisis del mercado global de videojuegos utilizando datasets historicos. El objetivo principal es identificar patrones de exito comercial y tendencias de consumo que sirvan como base para la toma de decisiones en futuros lanzamientos.
 
 Objetivo del Proyecto
