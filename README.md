@@ -1,9 +1,10 @@
-# Analisis de Ventas de Videojuegos
+# 🎮 Análisis de Ventas de Videojuegos 
+![Python Version](https://img.shields.io/badge/python-3.12.3-blue.svg)
 
-Este proyecto presenta un analisis del mercado global de videojuegos utilizando conjuntos de datos historicos. El objetivo principal es identificar patrones de exito comercial y tendencias de consumo que sirven como base para la toma de decisiones en futuros lanzamientos.
+Este proyecto presenta un análisis del mercado global de videojuegos utilizando conjuntos de datos históricos. El objetivo principal es identificar patrones de éxito comercial y tendencias de consumo para la toma de decisiones estratégicas.
 
-## Objetivo del Proyecto
-Identificar las variables clave (**plataforma, genero y clasificacion**) que presentan mayor correlacion con las ventas globales para optimizar estrategias de marketing y planificacion comercial.
+## 🎯 Objetivo del Proyecto
+Identificar las variables clave (**plataforma, género y clasificación**) que presentan mayor correlación con las ventas globales para optimizar estrategias de marketing y planificación comercial.
 
 ## Stack Tecnologico
 * **Lenguaje:** Python 3.12.3
